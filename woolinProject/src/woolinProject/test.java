@@ -1,4 +1,4 @@
-package woolinProject;
+package woolinproject;
 
 public class test {
 
